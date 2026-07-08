@@ -36,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Komal-singh16/DSA-SHEET/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Komal-singh16/DSA-SHEET/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Komal-singh16/DSA-SHEET/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
