@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Komal-singh16/DSA-SHEET/tree/master/0001-two-sum) |
+| [1331-rank-transform-of-an-array](https://github.com/Komal-singh16/DSA-SHEET/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Komal-singh16/DSA-SHEET/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Komal-singh16/DSA-SHEET/tree/master/0001-two-sum) |
+| [1331-rank-transform-of-an-array](https://github.com/Komal-singh16/DSA-SHEET/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Komal-singh16/DSA-SHEET/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Math
 |  |
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Komal-singh16/DSA-SHEET/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Komal-singh16/DSA-SHEET/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
