@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Komal-singh16/DSA-SHEET/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Komal-singh16/DSA-SHEET/tree/master/1331-rank-transform-of-an-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Komal-singh16/DSA-SHEET/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Komal-singh16/DSA-SHEET/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
@@ -19,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Komal-singh16/DSA-SHEET/tree/master/1025-divisor-game) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Komal-singh16/DSA-SHEET/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Komal-singh16/DSA-SHEET/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Komal-singh16/DSA-SHEET/tree/master/1025-divisor-game) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Komal-singh16/DSA-SHEET/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Brainteaser
 |  |
 | ------- |
@@ -69,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Komal-singh16/DSA-SHEET/tree/master/1331-rank-transform-of-an-array) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Komal-singh16/DSA-SHEET/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
